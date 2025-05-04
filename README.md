@@ -26,11 +26,11 @@ An augmented reality application built with Unity that demonstrates both **image
     - An info button to show the information of the model when a model is selected and disappear when no model is selected.
       
 ## Credits
-Cat sound: https://pixabay.com/sound-effects/cat-meow-9-fx-306185/
-Cat model: https://sketchfab.com/3d-models/cat-7e8cbcad506041dc9c3a0cb74edb3360
+- Cat sound: https://pixabay.com/sound-effects/cat-meow-9-fx-306185/
+- Cat model: https://sketchfab.com/3d-models/cat-7e8cbcad506041dc9c3a0cb74edb3360
 
-Shiba sound: https://pixabay.com/sound-effects/dog-bark-179915/
-Shiba model: https://sketchfab.com/3d-models/shiba-faef9fe5ace445e7b2989d1c1ece361c
+- Shiba sound: https://pixabay.com/sound-effects/dog-bark-179915/
+- Shiba model: https://sketchfab.com/3d-models/shiba-faef9fe5ace445e7b2989d1c1ece361c
 
-Frog sound: https://pixabay.com/sound-effects/frog-croaking-sound-effect-322956/
-Frog model: https://sketchfab.com/3d-models/tiny-frog-c25c8980b93a460aa521ae62d3d94e0e
+- Frog sound: https://pixabay.com/sound-effects/frog-croaking-sound-effect-322956/
+- Frog model: https://sketchfab.com/3d-models/tiny-frog-c25c8980b93a460aa521ae62d3d94e0e
