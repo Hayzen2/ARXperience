@@ -28,13 +28,13 @@ An augmented reality application built with Unity that demonstrates both **image
 ## Screenshots 📸
 
 ### Login Screen
-![Login Screen Preview](./Screenshots/mainScreen.jpg)
+<img src="./Screenshots/mainScreen.jpg" alt="Login Screen" width="400" />
 
 ### Choose Method Screen
-![Choose Method Screen Preview](./Screenshots/chooseMethod.jpg)
+<img src="./Screenshots/chooseMethod.jpg" alt="Method Selection" width="400" />
 
 ### Surface Scan Screen
-![Surface Scan Screen Preview](./Screenshots/SurfaceScan.jpg)
+<img src="./Screenshots/SurfaceScan.jpg" alt="Surface Scanning" width="400" />
       
 ## Credits
 - Cat sound: https://pixabay.com/sound-effects/cat-meow-9-fx-306185/
