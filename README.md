@@ -24,6 +24,17 @@ An augmented reality application built with Unity that demonstrates both **image
     - Automatically place the phone on the detected surface.
     - An arrow sign is pointed to the selected model, tapping out the screen will deselect the model and tapping on the model will choose it.
     - An info button to show the information of the model when a model is selected and disappear when no model is selected.
+   
+## Screenshots 📸
+
+### Login Screen
+![Login Screen Preview](./Screenshots/mainScreen.png)
+
+### Choose Method Screen
+![Choose Method Screen Preview](./Screenshots/chooseMethod.png)
+
+### Surface Scan Screen
+![Surface Scan Screen Preview](./Screenshots/SurfaceScan.png)
       
 ## Credits
 - Cat sound: https://pixabay.com/sound-effects/cat-meow-9-fx-306185/
